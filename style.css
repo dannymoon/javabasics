@@ -1,0 +1,79 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#bigone{
+ display: block;
+ width: 950px;
+ background-color: rgb(61, 78, 177);
+ margin: 0px auto;
+ overflow: hidden;
+ height: 500px;
+}
+#up{
+ height: 40px;
+ background-color: red;
+ margin: 5px;
+ border-radius:15px;
+ color:  #E0DEDE;
+ padding:8px;
+ font-size: 30px;
+ display: block;
+}
+#navigate{
+ height: 220px;
+ width: 200px;
+ background-color: #4AA06C;
+ float:left;
+ margin-left: 15px;
+ margin-right: 5px;
+ margin-top: 0px;
+ border-radius:15px;
+ color: #50C4B0;
+ display: inline-block;
+ text-decoration: underline;
+ padding-left: 10px;
+}
+
+a{
+ color: #50C4B0;
+}
+.bullets{
+ margin-left: 20px;
+}
+#desc{
+ height: 350px;
+ width: 700px;
+ background-color: black;
+ float:right;
+ margin-right: 5px;
+ margin-left: 0px;
+ margin-top: 0px;
+ margin-bottom: 15px;
+ color: #E0DEDE;
+ border-radius:15px;
+ display: inline-block;
+ padding-left: 10px;
+}
+
+.hey{
+ margin-left: 20px;
+}
+#bot{
+ height: 55px;
+ width: auto;
+ background-color: grey;
+ margin-top: 370px;
+ margin-left: 5px;
+ margin-right: 5px;
+ border-radius:15px;
+ color: #E0DEDE;
+ display: block;
+ padding-left: 10px;
+}
+h2{
+ font-size: 20px;
+ margin-top: 20px;
+ 
+}
